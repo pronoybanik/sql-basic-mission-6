@@ -132,6 +132,7 @@ DELETE FROM students
    WHERE blood_group = 'O-' AND country = 'UK' ;
 
 
+
 -- update data in table
 UPDATE students 
 SET email= 'default@gmail.com'
