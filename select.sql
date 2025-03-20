@@ -126,6 +126,7 @@ SELECT max(age) FROM students;
 SELECT count(*) FROM students;
 
 
+
 -- delete data in table 
 DELETE FROM students 
    WHERE blood_group = 'O-' AND country = 'UK' ;
